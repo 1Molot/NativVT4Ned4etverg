@@ -1,8 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {sum} from './lesson_8/lesson_8'
 
 function App() {
+
+// sum(1,3,5,7)
+
+
+
   return (
     <div className="App">
       <header className="App-header">
